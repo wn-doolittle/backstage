@@ -14,4 +14,4 @@
  * limitations under the License.
  */
 
-export { usePermission } from './usePermission';
+export * from './usePermission';
