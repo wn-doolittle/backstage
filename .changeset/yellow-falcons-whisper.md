@@ -1,5 +1,4 @@
 ---
-'@backstage/catalog-model': patch
 '@backstage/plugin-scaffolder-backend': patch
 '@backstage/plugin-scaffolder-common': patch
 ---

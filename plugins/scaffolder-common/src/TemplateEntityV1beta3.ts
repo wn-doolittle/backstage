@@ -34,7 +34,4 @@ export interface TemplateEntityV1beta3 extends Entity {
     output?: { [name: string]: string };
     owner?: string;
   };
-  metadata: {
-    name: string;
-  };
 }
