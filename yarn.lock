@@ -3638,9 +3638,9 @@
     react-is "^16.8.0 || ^17.0.0"
 
 "@microsoft/api-documenter@^7.15.0":
-  version "7.15.0"
-  resolved "https://registry.npmjs.org/@microsoft/api-documenter/-/api-documenter-7.15.0.tgz#e6cf24fc0e2f18a71dcf4c5c8100cc083167a81e"
-  integrity sha512-0KvwFamTIGZk6VE71F5gdDLxszLet0A1PEeb87RTdxr4KC0/yVFQvDyj+ck+HVr5+Exf6RyzIHfou0sgJl9SDA==
+  version "7.15.3"
+  resolved "https://registry.npmjs.org/@microsoft/api-documenter/-/api-documenter-7.15.3.tgz#2aeeb9ef95a59ad2328e7b7a3de66fa715c7eee0"
+  integrity sha512-tehv1f/aKwGBQp0sheQofz5NQfa61mvTdAe4IHQnVavsyyK71r+P+CVXWewznPYkqFzzVXaTdrCuNGPU5Yd3mg==
   dependencies:
     "@microsoft/api-extractor-model" "7.15.3"
     "@microsoft/tsdoc" "0.13.2"
